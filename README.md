@@ -12,7 +12,7 @@ A lightweight implementation of the K-Nearest Neighbors (KNN) algorithm from scr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-knn.git
+   git clone https://github.com/akaparounakis/simple-knn.git
    cd simple-knn
    ```
 
